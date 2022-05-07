@@ -1,7 +1,7 @@
 Welcome to C5 Zine
 =================
 
-Hosted on github : http://carbonfive.github.io/c5-zine/
+Hosted on github : http://bunnymatic.github.io/c5-zine/
 
 This is where we store our zine which was originally
 written on [https://zine-machine.glitch.me/](https://zine-machine.glitch.me/).
