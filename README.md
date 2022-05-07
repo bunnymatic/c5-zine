@@ -112,4 +112,6 @@ This task simply runs `mgd`
 
 `bundle exec rake deploy`
 
-Visit the newly deployed site at `https://carbonfive.github.io/c5-zine`
+Visit the newly deployed site at `https://bunnymatic.github.io/c5-zine`
+
+Note: For the above to work, we need to stick with `master` as the trunk branch.  `mgd` is counting on it.
